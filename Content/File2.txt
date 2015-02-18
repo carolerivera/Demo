@@ -1,7 +1,6 @@
 This is file2.
 
-I am also a test file. But I have a fish.
-
+I am also a test file. But I have a fish. I don't really care about the fish, but I really need a camel here.
 
     ______
    `""-.  `````-----.....__
@@ -17,3 +16,24 @@ I am also a test file. But I have a fish.
       .'____....----''.'=.'
       ""             .'.'
                   ''"'` 
+
+New camel:
+
+                       ,.                         
+           .           :%%%.    .%%%.             
+       __%%%(\        `%%%%%   .%%%%%             
+     /a  ^  '%        %%%% %: ,%  %%"`            
+    '__..  ,'%     .-%:     %-'    %              
+     ~~""%:. `     % '          .   `.            
+         %% % `   %%           .%:  . \.          
+          %%:. `-'   `        .%% . %: :\         
+          %(%,%..."   `%,     %%'   %% ) )       
+           %)%%)%%'   )%%%.....- '   "/ (         
+           %a:f%%\ % / \`%  "%%% `   / \))        
+            %(%'  % /-. \      '  \ |-. '.       
+            `'    |%   `()         \|  `()       
+                  ||    /          ()   /        
+                  ()   0            |  o          
+                   \  /\            o /           
+                   o  `            /-|            
+                ,-/ `           ,-/
