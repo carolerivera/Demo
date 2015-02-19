@@ -1,22 +1,16 @@
 This is file2.
 
-I am also a test file. But I have a fish. I don't really care about the fish, but I really need a camel here.
+I am also a test file.
 
-    ______
-   `""-.  `````-----.....__
-        `.  .      .       `-.
-          :     .     .       `.
-    ,     :   .    .          _ :
-   : `.   :                  (@) `._
-    `. `..'     .     =`-.       .__}
-      ;     .        =  ~  :     .-"
-    .' .'`.   .    .  =.-'  `._ .'
-   : .'   :               .   .'
-    '   .'  .    .     .   .-'
-      .'____....----''.'=.'
-      ""             .'.'
-                  ''"'` 
 
+                            __
+     ,                    ," e`--o
+    ((                   (  | __,'
+     \\~----------------' \_;/
+     (                      /
+     /) ._______________.  )
+    (( (               (( (
+     ``-'               ``-'
 New camel:
 
                        ,.                         
